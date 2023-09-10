@@ -1,0 +1,41 @@
+/* .container{
+    position: absolute;
+} */
+
+
+.div__photo_child{
+    display: grid;
+}
+/* .photo_canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: chartreuse;
+} */
+
+.photo_video{
+    /* position: absolute;
+    top: 0;
+    left: 0; */
+    background: black;
+}
+
+
+.KYC_body{
+    margin: 0;
+    padding: 0;
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_outer{
+    background-color: rgb(189, 227, 227);
+    min-height: 100vh;
+}
+
+.location-input{
+    height: 50px;
+}
